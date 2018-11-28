@@ -3,3 +3,8 @@
 ################################################################################
 
 /AssQual_TP3_Library/bin/Debug/netstandard2.0
+/AssQual_TP3_Library/obj
+/AssQual_TP3_UnitTests/bin/Debug
+/AssQual_TP3_UnitTests/obj/Debug
+/packages
+/.vs/AssQual_TP3/v15/Server/sqlite3
